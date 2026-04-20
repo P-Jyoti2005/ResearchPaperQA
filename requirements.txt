@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+langgraph
+chromadb
+sentence-transformers
+streamlit
+ragas
+langchain-community
+jupyter
+ipykernel
